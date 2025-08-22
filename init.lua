@@ -1,3 +1,3 @@
 require("config")
 
-vim.cmd('colorscheme venom')
+vim.cmd('colorscheme orbital')
