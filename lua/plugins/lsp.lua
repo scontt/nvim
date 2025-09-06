@@ -33,6 +33,7 @@ return {
             marksman = {},
             clangd = {},
             gopls = {},
+            csharp_ls = {},
 
             pylsp = {
                 on_new_config = function(new_config, _)
